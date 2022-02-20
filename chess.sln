@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1700.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroChessTest", "chess\MicroChessTest.csproj", "{D052BDA9-F23F-4231-AEE6-4D9EC9C1BE42}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroChessTest", "MicroChessTest\MicroChessTest.csproj", "{D052BDA9-F23F-4231-AEE6-4D9EC9C1BE42}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroChessLib", "MicroChessLib\MicroChessLib.csproj", "{A932503C-80F3-4536-AE14-43D99CB338F1}"
 EndProject
