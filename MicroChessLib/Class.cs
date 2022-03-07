@@ -1,5 +1,5 @@
 ﻿/// <summary>
-/// Created by Jacob Fliss
+/// Created by Jacob Fliss for the purpose of creating a small chess library with .NET 6
 /// </summary>
 
 namespace MicroChessLib;

@@ -1,5 +1,9 @@
 ﻿using MicroChessLib;
 
+/// <summary>
+/// Created by Jacob Fliss for the purpose of testing the Micro Chess Library
+/// </summary>
+
 class Chess
 {
     public MCL m = new MCL();
